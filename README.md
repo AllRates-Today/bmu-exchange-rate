@@ -85,10 +85,10 @@ const pair = await getRate('USD', 'MUR', { apiKey: 'art_live_...' });
 {
   bank: 'bmu',
   name: 'Bank of Mauritius',
-  rate_date: '2026-09-25',   // Bank of Mauritius's own publication date
+  rate_date: '2026-10-06',   // Bank of Mauritius's own publication date
   source: 'USD',
   target: 'MUR',
-  rate: 46.8343,
+  rate: 46.716,
   rate_type: 'tt_buy',
   derived: false,
   method: 'published',
@@ -113,10 +113,10 @@ console.log(table.rate_date, table.rates.length);
 {
   bank: 'bmu',
   name: 'Bank of Mauritius',
-  rate_date: '2026-09-25',
+  rate_date: '2026-10-06',
   rates: [
-    { "base": "USD", "quote": "MUR", "type": "tt_buy", "value": 46.8343 },
-    { "base": "USD", "quote": "MUR", "type": "tt_sell", "value": 48.2278 },
+    { "base": "USD", "quote": "MUR", "type": "tt_buy", "value": 46.716 },
+    { "base": "USD", "quote": "MUR", "type": "tt_sell", "value": 48.1147 },
     // … the rest of the published table (12 currencies vs MUR)
   ],
   disclaimer: '…'
@@ -156,7 +156,7 @@ Paid plans. One resolved rate per publication date — ready for charting, reval
 import { getHistory } from 'bmu-exchange-rate';
 
 const series = await getHistory(
-  { source: 'USD', target: 'MUR', from: '2026-01-01', to: '2026-09-25' },
+  { source: 'USD', target: 'MUR', from: '2026-01-01', to: '2026-10-06' },
   { apiKey: 'art_live_...' }
 );
 ```
@@ -169,11 +169,11 @@ const series = await getHistory(
   source: 'USD',
   target: 'MUR',
   from: '2026-01-01',
-  to: '2026-09-25',
+  to: '2026-10-06',
   count: 152,
   rates: [
     // one entry per publication date
-    { date: '2026-09-25', rate: 46.8343, rate_type: 'tt_buy', derived: false, method: 'published' },
+    { date: '2026-10-06', rate: 46.716, rate_type: 'tt_buy', derived: false, method: 'published' },
     // …
   ],
   disclaimer: '…'

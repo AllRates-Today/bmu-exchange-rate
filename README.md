@@ -4,6 +4,8 @@
 [![license](https://img.shields.io/npm/l/bmu-exchange-rate.svg)](https://github.com/AllRates-Today/bmu-exchange-rate/blob/main/LICENSE)
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://www.npmjs.com/package/bmu-exchange-rate)
 [![TypeScript](https://img.shields.io/badge/TypeScript-types%20included-3178C6.svg)](https://www.typescriptlang.org/)
+[![USD/MUR today](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallratestoday.com%2Fapi%2Fopen%2Fcentral-bank%2Fbmu%3Fsource%3DUSD%26target%3DMUR&query=%24.rate&label=USD%2FMUR%20published%20by%20Bank%20of%20Mauritius&color=0A7E8C&cacheSeconds=3600)](https://allratestoday.com/central-bank-rates-api/bmu/)
+[![rate date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallratestoday.com%2Fapi%2Fopen%2Fcentral-bank%2Fbmu%3Fsource%3DUSD%26target%3DMUR&query=%24.rate_date&label=rate%20date&color=555&cacheSeconds=3600)](https://allratestoday.com/central-bank-rates-api/bmu/)
 
 **Official Bank of Mauritius (Mauritius) daily exchange rates for Node.js and TypeScript. The published central bank rates behind tax filings, customs valuations, audits, and compliant invoicing — not market estimates, but the numbers Bank of Mauritius itself prints, every business day.**
 
@@ -32,6 +34,43 @@ console.log(r.rate_date, r.rates.length); // the central bank's latest published
 ```
 
 The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+
+## 📈 Latest published table
+
+Today's full Bank of Mauritius table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
+
+<!-- daily-table:start -->
+Published **2026-10-09** by Bank of Mauritius — 24 rates. Updated 2026-10-09.
+
+| Base | Quote | Type | Rate |
+| --- | --- | --- | ---: |
+| AUD | MUR | tt_buy | 33.1383 |
+| AUD | MUR | tt_sell | 34.939 |
+| CAD | MUR | tt_buy | 33.1122 |
+| CAD | MUR | tt_sell | 35.0146 |
+| CHF | MUR | tt_buy | 56.3225 |
+| CHF | MUR | tt_sell | 58.0009 |
+| CNY | MUR | tt_buy | 7.044 |
+| CNY | MUR | tt_sell | 7.6206 |
+| EUR | MUR | tt_buy | 52.5102 |
+| EUR | MUR | tt_sell | 54.0784 |
+| GBP | MUR | tt_buy | 61.9358 |
+| GBP | MUR | tt_sell | 63.7838 |
+| INR | MUR | tt_buy | 0.4922 |
+| INR | MUR | tt_sell | 0.5264 |
+| JPY | MUR | tt_buy | 0.29596 |
+| JPY | MUR | tt_sell | 0.304786 |
+| NZD | MUR | tt_buy | 26.4576 |
+| NZD | MUR | tt_sell | 27.8392 |
+| SGD | MUR | tt_buy | 36.7182 |
+| SGD | MUR | tt_sell | 38.5919 |
+| USD | MUR | tt_buy | 46.7632 |
+| USD | MUR | tt_sell | 48.1622 |
+| ZAR | MUR | tt_buy | 2.8633 |
+| ZAR | MUR | tt_sell | 3.0669 |
+
+Source: [Official rates published by BMU, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bmu/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
+<!-- daily-table:end -->
 
 ## 🔑 Get your API key
 

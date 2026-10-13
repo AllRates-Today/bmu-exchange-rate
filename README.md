@@ -42,34 +42,34 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-12** by Bank of Mauritius — 24 rates. Updated 2026-10-12.
+Published **2026-10-13** by Bank of Mauritius — 24 rates. Updated 2026-10-13.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 33.2144 |
-| AUD | MUR | tt_sell | 35.0206 |
-| CAD | MUR | tt_buy | 33.0803 |
-| CAD | MUR | tt_sell | 34.9804 |
-| CHF | MUR | tt_buy | 56.4445 |
-| CHF | MUR | tt_sell | 58.1298 |
-| CNY | MUR | tt_buy | 7.0678 |
-| CNY | MUR | tt_sell | 7.6404 |
-| EUR | MUR | tt_buy | 52.526 |
-| EUR | MUR | tt_sell | 54.0958 |
-| GBP | MUR | tt_buy | 62.0762 |
-| GBP | MUR | tt_sell | 63.931 |
-| INR | MUR | tt_buy | 0.4974 |
-| INR | MUR | tt_sell | 0.5303 |
-| JPY | MUR | tt_buy | 0.296119 |
-| JPY | MUR | tt_sell | 0.304979 |
-| NZD | MUR | tt_buy | 26.4742 |
-| NZD | MUR | tt_sell | 27.8579 |
-| SGD | MUR | tt_buy | 36.8109 |
-| SGD | MUR | tt_sell | 38.6919 |
-| USD | MUR | tt_buy | 46.8687 |
-| USD | MUR | tt_sell | 48.272 |
-| ZAR | MUR | tt_buy | 2.8763 |
-| ZAR | MUR | tt_sell | 3.0781 |
+| AUD | MUR | tt_buy | 33.2479 |
+| AUD | MUR | tt_sell | 35.0551 |
+| CAD | MUR | tt_buy | 33.1772 |
+| CAD | MUR | tt_sell | 35.0822 |
+| CHF | MUR | tt_buy | 56.4553 |
+| CHF | MUR | tt_sell | 58.1383 |
+| CNY | MUR | tt_buy | 7.091 |
+| CNY | MUR | tt_sell | 7.6627 |
+| EUR | MUR | tt_buy | 52.5564 |
+| EUR | MUR | tt_sell | 54.1259 |
+| GBP | MUR | tt_buy | 62.1838 |
+| GBP | MUR | tt_sell | 64.0398 |
+| INR | MUR | tt_buy | 0.5008 |
+| INR | MUR | tt_sell | 0.5352 |
+| JPY | MUR | tt_buy | 0.297261 |
+| JPY | MUR | tt_sell | 0.306147 |
+| NZD | MUR | tt_buy | 26.4712 |
+| NZD | MUR | tt_sell | 27.8557 |
+| SGD | MUR | tt_buy | 36.9118 |
+| SGD | MUR | tt_sell | 38.7951 |
+| USD | MUR | tt_buy | 47.0427 |
+| USD | MUR | tt_sell | 48.4493 |
+| ZAR | MUR | tt_buy | 2.8805 |
+| ZAR | MUR | tt_sell | 3.0833 |
 
 Source: [Official rates published by BMU, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bmu/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->

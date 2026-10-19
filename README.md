@@ -33,43 +33,46 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/bmu').the
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
 
 ## 📈 Latest published table
 
 [![Latest Bank of Mauritius table](https://allratestoday.com/api/open/central-bank/bmu/table.svg)](https://allratestoday.com/central-bank-rates-api/bmu/)
 
-The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
+The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-16** by Bank of Mauritius — 24 rates. Updated 2026-10-16.
+<details>
+<summary>Table as text: published 2026-10-19 by Bank of Mauritius — 24 rates. Updated 2026-10-19.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 32.8309 |
-| AUD | MUR | tt_sell | 34.6209 |
-| CAD | MUR | tt_buy | 33.0395 |
-| CAD | MUR | tt_sell | 34.9381 |
-| CHF | MUR | tt_buy | 56.2961 |
-| CHF | MUR | tt_sell | 57.9769 |
-| CNY | MUR | tt_buy | 7.0263 |
-| CNY | MUR | tt_sell | 7.5943 |
-| EUR | MUR | tt_buy | 52.2728 |
-| EUR | MUR | tt_sell | 53.8372 |
-| GBP | MUR | tt_buy | 61.9221 |
-| GBP | MUR | tt_sell | 63.7736 |
-| INR | MUR | tt_buy | 0.4981 |
-| INR | MUR | tt_sell | 0.5318 |
-| JPY | MUR | tt_buy | 0.294981 |
-| JPY | MUR | tt_sell | 0.303797 |
-| NZD | MUR | tt_buy | 26.4666 |
-| NZD | MUR | tt_sell | 27.8513 |
-| SGD | MUR | tt_buy | 36.4875 |
-| SGD | MUR | tt_sell | 38.3558 |
-| USD | MUR | tt_buy | 46.5434 |
-| USD | MUR | tt_sell | 47.9373 |
-| ZAR | MUR | tt_buy | 2.8626 |
-| ZAR | MUR | tt_sell | 3.0648 |
+| AUD | MUR | tt_buy | 32.9657 |
+| AUD | MUR | tt_sell | 34.7622 |
+| CAD | MUR | tt_buy | 33.1778 |
+| CAD | MUR | tt_sell | 35.0826 |
+| CHF | MUR | tt_buy | 56.4831 |
+| CHF | MUR | tt_sell | 58.1675 |
+| CNY | MUR | tt_buy | 7.0324 |
+| CNY | MUR | tt_sell | 7.6008 |
+| EUR | MUR | tt_buy | 52.2887 |
+| EUR | MUR | tt_sell | 53.852 |
+| GBP | MUR | tt_buy | 62.055 |
+| GBP | MUR | tt_sell | 63.9099 |
+| INR | MUR | tt_buy | 0.4984 |
+| INR | MUR | tt_sell | 0.5313 |
+| JPY | MUR | tt_buy | 0.294553 |
+| JPY | MUR | tt_sell | 0.30336 |
+| NZD | MUR | tt_buy | 26.49 |
+| NZD | MUR | tt_sell | 27.8744 |
+| SGD | MUR | tt_buy | 36.5582 |
+| SGD | MUR | tt_sell | 38.4273 |
+| USD | MUR | tt_buy | 46.5547 |
+| USD | MUR | tt_sell | 47.9507 |
+| ZAR | MUR | tt_buy | 2.8622 |
+| ZAR | MUR | tt_sell | 3.0651 |
+
+</details>
 
 Source: [Official rates published by BMU, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bmu/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
@@ -343,7 +346,8 @@ Need the whole archive rather than an API call? The same published tables are mi
 - [All central bank sources](https://allratestoday.com/central-bank-rates-api/)
 - [Package docs on the site](https://allratestoday.com/docs/sdk/bmu-exchange-rate/) · [ERP integration guides](https://allratestoday.com/docs/integrations/)
 - [API documentation](https://allratestoday.com/docs/#central-bank) · [Interactive reference](https://allratestoday.com/api-reference/) · [Methodology](https://allratestoday.com/official-rates-methodology/)
-- [Register (free)](https://allratestoday.com/register) · [Pricing](https://allratestoday.com/pricing/)
+- [Register (Free)](https://allratestoday.com/register) · [Dashboard](https://allratestoday.com/profile) · [Pricing](https://allratestoday.com/pricing/)
+- [Status](https://allratestoday.com/status)
 - [GitHub](https://github.com/AllRates-Today/bmu-exchange-rate)
 
 ## 📜 License

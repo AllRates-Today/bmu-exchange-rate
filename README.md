@@ -43,34 +43,34 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-19 by Bank of Mauritius — 24 rates. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by Bank of Mauritius — 24 rates. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 32.9657 |
-| AUD | MUR | tt_sell | 34.7622 |
-| CAD | MUR | tt_buy | 33.1778 |
-| CAD | MUR | tt_sell | 35.0826 |
-| CHF | MUR | tt_buy | 56.4831 |
-| CHF | MUR | tt_sell | 58.1675 |
-| CNY | MUR | tt_buy | 7.0324 |
-| CNY | MUR | tt_sell | 7.6008 |
-| EUR | MUR | tt_buy | 52.2887 |
-| EUR | MUR | tt_sell | 53.852 |
-| GBP | MUR | tt_buy | 62.055 |
-| GBP | MUR | tt_sell | 63.9099 |
-| INR | MUR | tt_buy | 0.4984 |
-| INR | MUR | tt_sell | 0.5313 |
-| JPY | MUR | tt_buy | 0.294553 |
-| JPY | MUR | tt_sell | 0.30336 |
-| NZD | MUR | tt_buy | 26.49 |
-| NZD | MUR | tt_sell | 27.8744 |
-| SGD | MUR | tt_buy | 36.5582 |
-| SGD | MUR | tt_sell | 38.4273 |
-| USD | MUR | tt_buy | 46.5547 |
-| USD | MUR | tt_sell | 47.9507 |
-| ZAR | MUR | tt_buy | 2.8622 |
-| ZAR | MUR | tt_sell | 3.0651 |
+| AUD | MUR | tt_buy | 32.9999 |
+| AUD | MUR | tt_sell | 34.7968 |
+| CAD | MUR | tt_buy | 33.2773 |
+| CAD | MUR | tt_sell | 35.1854 |
+| CHF | MUR | tt_buy | 56.4523 |
+| CHF | MUR | tt_sell | 58.1357 |
+| CNY | MUR | tt_buy | 7.0376 |
+| CNY | MUR | tt_sell | 7.606 |
+| EUR | MUR | tt_buy | 52.2981 |
+| EUR | MUR | tt_sell | 53.8623 |
+| GBP | MUR | tt_buy | 62.0808 |
+| GBP | MUR | tt_sell | 63.939 |
+| INR | MUR | tt_buy | 0.498 |
+| INR | MUR | tt_sell | 0.531 |
+| JPY | MUR | tt_buy | 0.294395 |
+| JPY | MUR | tt_sell | 0.303206 |
+| NZD | MUR | tt_buy | 26.6056 |
+| NZD | MUR | tt_sell | 27.9953 |
+| SGD | MUR | tt_buy | 36.5826 |
+| SGD | MUR | tt_sell | 38.4528 |
+| USD | MUR | tt_buy | 46.5586 |
+| USD | MUR | tt_sell | 47.9561 |
+| ZAR | MUR | tt_buy | 2.8718 |
+| ZAR | MUR | tt_sell | 3.0743 |
 
 </details>
 

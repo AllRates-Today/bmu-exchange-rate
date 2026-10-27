@@ -47,34 +47,34 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-22 by Bank of Mauritius (the API currently flags this table as stale) — 24 rates. Updated 2026-10-27.</summary>
+<summary>Table as text: published 2026-10-27 by Bank of Mauritius — 24 rates. Updated 2026-10-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 33.1274 |
-| AUD | MUR | tt_sell | 34.9769 |
-| CAD | MUR | tt_buy | 33.388 |
-| CAD | MUR | tt_sell | 35.3596 |
-| CHF | MUR | tt_buy | 56.5679 |
-| CHF | MUR | tt_sell | 58.256 |
-| CNY | MUR | tt_buy | 7.0402 |
-| CNY | MUR | tt_sell | 7.6106 |
-| EUR | MUR | tt_buy | 52.3427 |
-| EUR | MUR | tt_sell | 53.9078 |
-| GBP | MUR | tt_buy | 62.3718 |
-| GBP | MUR | tt_sell | 64.2347 |
-| INR | MUR | tt_buy | 0.4993 |
-| INR | MUR | tt_sell | 0.5347 |
-| JPY | MUR | tt_buy | 0.295213 |
-| JPY | MUR | tt_sell | 0.304052 |
-| NZD | MUR | tt_buy | 26.6426 |
-| NZD | MUR | tt_sell | 28.0333 |
-| SGD | MUR | tt_buy | 36.6464 |
-| SGD | MUR | tt_sell | 38.5641 |
-| USD | MUR | tt_buy | 46.5519 |
-| USD | MUR | tt_sell | 47.9493 |
-| ZAR | MUR | tt_buy | 2.8669 |
-| ZAR | MUR | tt_sell | 3.0693 |
+| AUD | MUR | tt_buy | 33.2697 |
+| AUD | MUR | tt_sell | 35.0793 |
+| CAD | MUR | tt_buy | 33.5057 |
+| CAD | MUR | tt_sell | 35.4243 |
+| CHF | MUR | tt_buy | 56.3662 |
+| CHF | MUR | tt_sell | 58.0505 |
+| CNY | MUR | tt_buy | 7.0576 |
+| CNY | MUR | tt_sell | 7.6262 |
+| EUR | MUR | tt_buy | 52.1123 |
+| EUR | MUR | tt_sell | 53.6738 |
+| GBP | MUR | tt_buy | 62.2384 |
+| GBP | MUR | tt_sell | 64.1007 |
+| INR | MUR | tt_buy | 0.4979 |
+| INR | MUR | tt_sell | 0.5309 |
+| JPY | MUR | tt_buy | 0.296069 |
+| JPY | MUR | tt_sell | 0.304931 |
+| NZD | MUR | tt_buy | 26.7957 |
+| NZD | MUR | tt_sell | 28.1934 |
+| SGD | MUR | tt_buy | 36.6191 |
+| SGD | MUR | tt_sell | 38.4914 |
+| USD | MUR | tt_buy | 46.6463 |
+| USD | MUR | tt_sell | 48.0524 |
+| ZAR | MUR | tt_buy | 2.8405 |
+| ZAR | MUR | tt_sell | 3.0381 |
 
 </details>
 

@@ -36,30 +36,30 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 32.9915 |
-| AUD | MUR | tt_sell | 34.7888 |
-| CAD | MUR | tt_buy | 33.4072 |
-| CAD | MUR | tt_sell | 35.3222 |
-| CHF | MUR | tt_buy | 56.8896 |
-| CHF | MUR | tt_sell | 58.591 |
-| CNY | MUR | tt_buy | 7.0132 |
-| CNY | MUR | tt_sell | 7.5901 |
-| EUR | MUR | tt_buy | 52.1655 |
-| EUR | MUR | tt_sell | 53.7282 |
-| GBP | MUR | tt_buy | 62.4981 |
-| GBP | MUR | tt_sell | 64.3718 |
-| INR | MUR | tt_buy | 0.498 |
-| INR | MUR | tt_sell | 0.531 |
-| JPY | MUR | tt_buy | 0.293372 |
-| JPY | MUR | tt_sell | 0.302172 |
-| NZD | MUR | tt_buy | 26.3391 |
-| NZD | MUR | tt_sell | 27.7171 |
-| SGD | MUR | tt_buy | 36.4833 |
-| SGD | MUR | tt_sell | 38.3514 |
-| USD | MUR | tt_buy | 46.3123 |
-| USD | MUR | tt_sell | 47.7077 |
-| ZAR | MUR | tt_buy | 2.8721 |
-| ZAR | MUR | tt_sell | 3.0719 |
+| AUD | MUR | tt_buy | 32.8239 |
+| AUD | MUR | tt_sell | 34.6155 |
+| CAD | MUR | tt_buy | 33.2368 |
+| CAD | MUR | tt_sell | 35.1443 |
+| CHF | MUR | tt_buy | 56.5723 |
+| CHF | MUR | tt_sell | 58.2634 |
+| CNY | MUR | tt_buy | 6.9747 |
+| CNY | MUR | tt_sell | 7.537 |
+| EUR | MUR | tt_buy | 51.8778 |
+| EUR | MUR | tt_sell | 53.4342 |
+| GBP | MUR | tt_buy | 62.1529 |
+| GBP | MUR | tt_sell | 64.017 |
+| INR | MUR | tt_buy | 0.4961 |
+| INR | MUR | tt_sell | 0.529 |
+| JPY | MUR | tt_buy | 0.291735 |
+| JPY | MUR | tt_sell | 0.30048 |
+| NZD | MUR | tt_buy | 26.1762 |
+| NZD | MUR | tt_sell | 27.5484 |
+| SGD | MUR | tt_buy | 36.2722 |
+| SGD | MUR | tt_sell | 38.1336 |
+| USD | MUR | tt_buy | 46.0556 |
+| USD | MUR | tt_sell | 47.4466 |
+| ZAR | MUR | tt_buy | 2.8529 |
+| ZAR | MUR | tt_sell | 3.0524 |
 
 </details>
 

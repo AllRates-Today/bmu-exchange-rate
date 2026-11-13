@@ -32,34 +32,34 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-12 by Bank of Mauritius — 24 rates. Updated 2026-11-12.</summary>
+<summary>Table as text: published 2026-11-13 by Bank of Mauritius — 24 rates. Updated 2026-11-13.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 32.5439 |
-| AUD | MUR | tt_sell | 34.3221 |
-| CAD | MUR | tt_buy | 33.055 |
-| CAD | MUR | tt_sell | 34.9528 |
-| CHF | MUR | tt_buy | 56.2227 |
-| CHF | MUR | tt_sell | 57.902 |
-| CNY | MUR | tt_buy | 7.0801 |
-| CNY | MUR | tt_sell | 7.6581 |
-| EUR | MUR | tt_buy | 51.8809 |
-| EUR | MUR | tt_sell | 53.4349 |
-| GBP | MUR | tt_buy | 62.1131 |
-| GBP | MUR | tt_sell | 63.974 |
-| INR | MUR | tt_buy | 0.5065 |
-| INR | MUR | tt_sell | 0.5397 |
-| JPY | MUR | tt_buy | 0.293317 |
-| JPY | MUR | tt_sell | 0.302086 |
-| NZD | MUR | tt_buy | 26.1891 |
-| NZD | MUR | tt_sell | 27.5605 |
-| SGD | MUR | tt_buy | 36.6202 |
-| SGD | MUR | tt_sell | 38.4916 |
-| USD | MUR | tt_buy | 46.8351 |
-| USD | MUR | tt_sell | 48.2449 |
-| ZAR | MUR | tt_buy | 2.8576 |
-| ZAR | MUR | tt_sell | 3.0569 |
+| AUD | MUR | tt_buy | 32.4138 |
+| AUD | MUR | tt_sell | 34.1873 |
+| CAD | MUR | tt_buy | 33.1061 |
+| CAD | MUR | tt_sell | 35.0076 |
+| CHF | MUR | tt_buy | 56.1699 |
+| CHF | MUR | tt_sell | 57.8474 |
+| CNY | MUR | tt_buy | 7.0923 |
+| CNY | MUR | tt_sell | 7.6655 |
+| EUR | MUR | tt_buy | 51.8894 |
+| EUR | MUR | tt_sell | 53.444 |
+| GBP | MUR | tt_buy | 62.0884 |
+| GBP | MUR | tt_sell | 63.9501 |
+| INR | MUR | tt_buy | 0.5056 |
+| INR | MUR | tt_sell | 0.5388 |
+| JPY | MUR | tt_buy | 0.293431 |
+| JPY | MUR | tt_sell | 0.302222 |
+| NZD | MUR | tt_buy | 26.162 |
+| NZD | MUR | tt_sell | 27.5315 |
+| SGD | MUR | tt_buy | 36.6361 |
+| SGD | MUR | tt_sell | 38.5086 |
+| USD | MUR | tt_buy | 46.914 |
+| USD | MUR | tt_sell | 48.3253 |
+| ZAR | MUR | tt_buy | 2.8363 |
+| ZAR | MUR | tt_sell | 3.0343 |
 
 </details>
 

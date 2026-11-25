@@ -32,34 +32,34 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-24 by Bank of Mauritius — 24 rates. Updated 2026-11-24.</summary>
+<summary>Table as text: published 2026-11-25 by Bank of Mauritius — 24 rates. Updated 2026-11-25.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 31.2159 |
-| AUD | MUR | tt_sell | 32.9891 |
-| CAD | MUR | tt_buy | 32.4869 |
-| CAD | MUR | tt_sell | 34.4096 |
-| CHF | MUR | tt_buy | 55.1261 |
-| CHF | MUR | tt_sell | 56.7709 |
-| CNY | MUR | tt_buy | 7.0274 |
-| CNY | MUR | tt_sell | 7.605 |
-| EUR | MUR | tt_buy | 50.6043 |
-| EUR | MUR | tt_sell | 52.1201 |
-| GBP | MUR | tt_buy | 60.4908 |
-| GBP | MUR | tt_sell | 62.3029 |
-| INR | MUR | tt_buy | 0.5064 |
-| INR | MUR | tt_sell | 0.5401 |
-| JPY | MUR | tt_buy | 0.291822 |
-| JPY | MUR | tt_sell | 0.300546 |
-| NZD | MUR | tt_buy | 25.4372 |
-| NZD | MUR | tt_sell | 26.7766 |
-| SGD | MUR | tt_buy | 36.0753 |
-| SGD | MUR | tt_sell | 38.011 |
-| USD | MUR | tt_buy | 46.3827 |
-| USD | MUR | tt_sell | 47.78 |
-| ZAR | MUR | tt_buy | 2.7012 |
-| ZAR | MUR | tt_sell | 2.894 |
+| AUD | MUR | tt_buy | 30.9887 |
+| AUD | MUR | tt_sell | 32.7541 |
+| CAD | MUR | tt_buy | 32.5879 |
+| CAD | MUR | tt_sell | 34.5144 |
+| CHF | MUR | tt_buy | 55.2906 |
+| CHF | MUR | tt_sell | 56.9429 |
+| CNY | MUR | tt_buy | 7.0006 |
+| CNY | MUR | tt_sell | 7.5842 |
+| EUR | MUR | tt_buy | 50.6096 |
+| EUR | MUR | tt_sell | 52.1273 |
+| GBP | MUR | tt_buy | 60.5443 |
+| GBP | MUR | tt_sell | 62.3581 |
+| INR | MUR | tt_buy | 0.5066 |
+| INR | MUR | tt_sell | 0.5403 |
+| JPY | MUR | tt_buy | 0.290242 |
+| JPY | MUR | tt_sell | 0.29894 |
+| NZD | MUR | tt_buy | 25.4517 |
+| NZD | MUR | tt_sell | 26.7928 |
+| SGD | MUR | tt_buy | 35.967 |
+| SGD | MUR | tt_sell | 37.9005 |
+| USD | MUR | tt_buy | 46.2395 |
+| USD | MUR | tt_sell | 47.6351 |
+| ZAR | MUR | tt_buy | 2.6629 |
+| ZAR | MUR | tt_sell | 2.8522 |
 
 </details>
 

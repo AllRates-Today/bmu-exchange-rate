@@ -32,34 +32,34 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by Bank of Mauritius — 24 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by Bank of Mauritius — 24 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | MUR | tt_buy | 31.1756 |
-| AUD | MUR | tt_sell | 32.9488 |
-| CAD | MUR | tt_buy | 32.6635 |
-| CAD | MUR | tt_sell | 34.5952 |
-| CHF | MUR | tt_buy | 55.5106 |
-| CHF | MUR | tt_sell | 57.1684 |
-| CNY | MUR | tt_buy | 7.0021 |
-| CNY | MUR | tt_sell | 7.5836 |
-| EUR | MUR | tt_buy | 50.6161 |
-| EUR | MUR | tt_sell | 52.133 |
-| GBP | MUR | tt_buy | 60.5185 |
-| GBP | MUR | tt_sell | 62.3322 |
-| INR | MUR | tt_buy | 0.5039 |
-| INR | MUR | tt_sell | 0.5397 |
-| JPY | MUR | tt_buy | 0.290248 |
-| JPY | MUR | tt_sell | 0.298942 |
-| NZD | MUR | tt_buy | 25.4858 |
-| NZD | MUR | tt_sell | 26.8271 |
-| SGD | MUR | tt_buy | 35.9428 |
-| SGD | MUR | tt_sell | 37.8749 |
-| USD | MUR | tt_buy | 46.1819 |
-| USD | MUR | tt_sell | 47.5761 |
-| ZAR | MUR | tt_buy | 2.667 |
-| ZAR | MUR | tt_sell | 2.8574 |
+| AUD | MUR | tt_buy | 31.178 |
+| AUD | MUR | tt_sell | 32.9523 |
+| CAD | MUR | tt_buy | 32.5312 |
+| CAD | MUR | tt_sell | 34.4564 |
+| CHF | MUR | tt_buy | 55.3235 |
+| CHF | MUR | tt_sell | 56.9745 |
+| CNY | MUR | tt_buy | 6.9864 |
+| CNY | MUR | tt_sell | 7.5669 |
+| EUR | MUR | tt_buy | 50.6363 |
+| EUR | MUR | tt_sell | 52.1541 |
+| GBP | MUR | tt_buy | 60.5401 |
+| GBP | MUR | tt_sell | 62.3558 |
+| INR | MUR | tt_buy | 0.5024 |
+| INR | MUR | tt_sell | 0.5381 |
+| JPY | MUR | tt_buy | 0.289854 |
+| JPY | MUR | tt_sell | 0.298518 |
+| NZD | MUR | tt_buy | 25.4689 |
+| NZD | MUR | tt_sell | 26.8089 |
+| SGD | MUR | tt_buy | 35.8723 |
+| SGD | MUR | tt_sell | 37.8026 |
+| USD | MUR | tt_buy | 46.1454 |
+| USD | MUR | tt_sell | 47.5393 |
+| ZAR | MUR | tt_buy | 2.6792 |
+| ZAR | MUR | tt_sell | 2.8702 |
 
 </details>
 
